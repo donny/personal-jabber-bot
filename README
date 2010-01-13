@@ -1,0 +1,3 @@
+personal-jabber-bot
+
+A small personal Jabber bot written in Python. It replies only to the bot's owner. It is based on JabberBot [http://thpinfo.com/2007/python-jabberbot/]. It depends on xmpppy [http://xmpppy.sourceforge.net/].
